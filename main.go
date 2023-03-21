@@ -4,6 +4,10 @@ import(
   "fmt"
 )
 
+func sum(a int, b int) int{
+  return a + b
+}
+
 func main(){
-  fmt.printf("main test")
+  fmt.Printf("main test")
 }
